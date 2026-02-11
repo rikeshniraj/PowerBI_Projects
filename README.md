@@ -13,6 +13,7 @@ Deliver a centralized, interactive dashboard for monitoring key sales and sales 
 • Monitor Total Profit, Total Sales, and Total Orders.
 • Identify the highest and lowest months based on Sales, Profit, Costs, Boxes and Shipments.
 • Visualize distribution by number of Boxes.
+
 #🕒 Filtering
 Apply dynamic filters to analyze data by:
 • Country
